@@ -1,203 +1,115 @@
-Eclipse Public License - v 1.0
+Terms of Service
 
-THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC
-LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM
-CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
-
-1. DEFINITIONS
-
-"Contribution" means:
-
-a) in the case of the initial Contributor, the initial code and documentation
-   distributed under this Agreement, and
-b) in the case of each subsequent Contributor:
-    i) changes to the Program, and
-   ii) additions to the Program;
-
-   where such changes and/or additions to the Program originate from and are
-   distributed by that particular Contributor. A Contribution 'originates'
-   from a Contributor if it was added to the Program by such Contributor
-   itself or anyone acting on such Contributor's behalf. Contributions do not
-   include additions to the Program which: (i) are separate modules of
-   software distributed in conjunction with the Program under their own
-   license agreement, and (ii) are not derivative works of the Program.
-
-"Contributor" means any person or entity that distributes the Program.
-
-"Licensed Patents" mean patent claims licensable by a Contributor which are
-necessarily infringed by the use or sale of its Contribution alone or when
-combined with the Program.
-
-"Program" means the Contributions distributed in accordance with this
-Agreement.
-
-"Recipient" means anyone who receives the Program under this Agreement,
-including all Contributors.
-
-2. GRANT OF RIGHTS
-  a) Subject to the terms of this Agreement, each Contributor hereby grants
-     Recipient a non-exclusive, worldwide, royalty-free copyright license to
-     reproduce, prepare derivative works of, publicly display, publicly
-     perform, distribute and sublicense the Contribution of such Contributor,
-     if any, and such derivative works, in source code and object code form.
-  b) Subject to the terms of this Agreement, each Contributor hereby grants
-     Recipient a non-exclusive, worldwide, royalty-free patent license under
-     Licensed Patents to make, use, sell, offer to sell, import and otherwise
-     transfer the Contribution of such Contributor, if any, in source code and
-     object code form. This patent license shall apply to the combination of
-     the Contribution and the Program if, at the time the Contribution is
-     added by the Contributor, such addition of the Contribution causes such
-     combination to be covered by the Licensed Patents. The patent license
-     shall not apply to any other combinations which include the Contribution.
-     No hardware per se is licensed hereunder.
-  c) Recipient understands that although each Contributor grants the licenses
-     to its Contributions set forth herein, no assurances are provided by any
-     Contributor that the Program does not infringe the patent or other
-     intellectual property rights of any other entity. Each Contributor
-     disclaims any liability to Recipient for claims brought by any other
-     entity based on infringement of intellectual property rights or
-     otherwise. As a condition to exercising the rights and licenses granted
-     hereunder, each Recipient hereby assumes sole responsibility to secure
-     any other intellectual property rights needed, if any. For example, if a
-     third party patent license is required to allow Recipient to distribute
-     the Program, it is Recipient's responsibility to acquire that license
-     before distributing the Program.
-  d) Each Contributor represents that to its knowledge it has sufficient
-     copyright rights in its Contribution, if any, to grant the copyright
-     license set forth in this Agreement.
-
-3. REQUIREMENTS
-
-A Contributor may choose to distribute the Program in object code form under
-its own license agreement, provided that:
-
-  a) it complies with the terms and conditions of this Agreement; and
-  b) its license agreement:
-      i) effectively disclaims on behalf of all Contributors all warranties
-         and conditions, express and implied, including warranties or
-         conditions of title and non-infringement, and implied warranties or
-         conditions of merchantability and fitness for a particular purpose;
-     ii) effectively excludes on behalf of all Contributors all liability for
-         damages, including direct, indirect, special, incidental and
-         consequential damages, such as lost profits;
-    iii) states that any provisions which differ from this Agreement are
-         offered by that Contributor alone and not by any other party; and
-     iv) states that source code for the Program is available from such
-         Contributor, and informs licensees how to obtain it in a reasonable
-         manner on or through a medium customarily used for software exchange.
-
-When the Program is made available in source code form:
-
-  a) it must be made available under this Agreement; and
-  b) a copy of this Agreement must be included with each copy of the Program.
-     Contributors may not remove or alter any copyright notices contained
-     within the Program.
-
-Each Contributor must identify itself as the originator of its Contribution,
-if
-any, in a manner that reasonably allows subsequent Recipients to identify the
-originator of the Contribution.
-
-4. COMMERCIAL DISTRIBUTION
-
-Commercial distributors of software may accept certain responsibilities with
-respect to end users, business partners and the like. While this license is
-intended to facilitate the commercial use of the Program, the Contributor who
-includes the Program in a commercial product offering should do so in a manner
-which does not create potential liability for other Contributors. Therefore,
-if a Contributor includes the Program in a commercial product offering, such
-Contributor ("Commercial Contributor") hereby agrees to defend and indemnify
-every other Contributor ("Indemnified Contributor") against any losses,
-damages and costs (collectively "Losses") arising from claims, lawsuits and
-other legal actions brought by a third party against the Indemnified
-Contributor to the extent caused by the acts or omissions of such Commercial
-Contributor in connection with its distribution of the Program in a commercial
-product offering. The obligations in this section do not apply to any claims
-or Losses relating to any actual or alleged intellectual property
-infringement. In order to qualify, an Indemnified Contributor must:
-a) promptly notify the Commercial Contributor in writing of such claim, and
-b) allow the Commercial Contributor to control, and cooperate with the
-Commercial Contributor in, the defense and any related settlement
-negotiations. The Indemnified Contributor may participate in any such claim at
-its own expense.
-
-For example, a Contributor might include the Program in a commercial product
-offering, Product X. That Contributor is then a Commercial Contributor. If
-that Commercial Contributor then makes performance claims, or offers
-warranties related to Product X, those performance claims and warranties are
-such Commercial Contributor's responsibility alone. Under this section, the
-Commercial Contributor would have to defend claims against the other
-Contributors related to those performance claims and warranties, and if a
-court requires any other Contributor to pay any damages as a result, the
-Commercial Contributor must pay those damages.
-
-5. NO WARRANTY
-
-EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN
-"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
-IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE,
-NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each
-Recipient is solely responsible for determining the appropriateness of using
-and distributing the Program and assumes all risks associated with its
-exercise of rights under this Agreement , including but not limited to the
-risks and costs of program errors, compliance with applicable laws, damage to
-or loss of data, programs or equipment, and unavailability or interruption of
-operations.
-
-6. DISCLAIMER OF LIABILITY
-
-EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY
-CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION
-LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
-CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE
-EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY
-OF SUCH DAMAGES.
-
-7. GENERAL
-
-If any provision of this Agreement is invalid or unenforceable under
-applicable law, it shall not affect the validity or enforceability of the
-remainder of the terms of this Agreement, and without further action by the
-parties hereto, such provision shall be reformed to the minimum extent
-necessary to make such provision valid and enforceable.
-
-If Recipient institutes patent litigation against any entity (including a
-cross-claim or counterclaim in a lawsuit) alleging that the Program itself
-(excluding combinations of the Program with other software or hardware)
-infringes such Recipient's patent(s), then such Recipient's rights granted
-under Section 2(b) shall terminate as of the date such litigation is filed.
-
-All Recipient's rights under this Agreement shall terminate if it fails to
-comply with any of the material terms or conditions of this Agreement and does
-not cure such failure in a reasonable period of time after becoming aware of
-such noncompliance. If all Recipient's rights under this Agreement terminate,
-Recipient agrees to cease use and distribution of the Program as soon as
-reasonably practicable. However, Recipient's obligations under this Agreement
-and any licenses granted by Recipient relating to the Program shall continue
-and survive.
-
-Everyone is permitted to copy and distribute copies of this Agreement, but in
-order to avoid inconsistency the Agreement is copyrighted and may only be
-modified in the following manner. The Agreement Steward reserves the right to
-publish new versions (including revisions) of this Agreement from time to
-time. No one other than the Agreement Steward has the right to modify this
-Agreement. The Eclipse Foundation is the initial Agreement Steward. The
-Eclipse Foundation may assign the responsibility to serve as the Agreement
-Steward to a suitable separate entity. Each new version of the Agreement will
-be given a distinguishing version number. The Program (including
-Contributions) may always be distributed subject to the version of the
-Agreement under which it was received. In addition, after a new version of the
-Agreement is published, Contributor may elect to distribute the Program
-(including its Contributions) under the new version. Except as expressly
-stated in Sections 2(a) and 2(b) above, Recipient receives no rights or
-licenses to the intellectual property of any Contributor under this Agreement,
-whether expressly, by implication, estoppel or otherwise. All rights in the
-Program not expressly granted under this Agreement are reserved.
-
-This Agreement is governed by the laws of the State of New York and the
-intellectual property laws of the United States of America. No party to this
-Agreement will bring a legal action under this Agreement more than one year
-after the cause of action arose. Each party waives its rights to a jury trial in
-any resulting litigation.
+For information on uploading gameplay videos to YouTube or creating mods & fan art, check out our Player Creation Guidelines.
+Applicable from: January 24, 2013 Don’t Starve™
+End-User Licence Agreement and Terms of Service
+This agreement (“Agreement”) is between you and Klei Entertainment Inc. (“Klei” or “us” or “we” or “our”) regarding the Don’t Starve™ computer game and all related software, files, documentation, updates, upgrades and derivative works (collectively the “Game”). Klei developed and owns the Game, and is licensing the Game to you on the terms and conditions set out below.  Klei is not selling the Game to you.
+By accessing or using the Game you agree to be bound by this Agreement.  If you do not agree to this Agreement, you may not access or use the Game.
+ 
+1. LIMITED LICENCE
+Subject to this Agreement, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, limited right and licence to access and use the Game for your personal non-commercial gameplay.
+You may download information, images, artwork, text, video, audio, pictures and other materials from the Game to the extent necessary to access and use the Game for the purposes of this Agreement.  However, you must not otherwise copy, reproduce, republish, post, transmit, display, perform, distribute, modify, translate, reverse-engineer, reverse-compile or decompile, disassemble or create any derivative work from any of those materials or any other portion of the Game without our prior written approval.
+We, and our licensors, reserve all rights not specifically granted to you in this Agreement.
+ 
+2. OTHER PROHIBITIONS
+Except as expressly set out in this Agreement, or as we may otherwise expressly agree in writing, you will not: (a) commercially exploit the Game or distribute, lease, license, sell, rent, grant a security interest in, lend or otherwise transfer or assign the Game or any copies of the Game; (b) remove, alter, or conceal any proprietary notice contained in the Game; or (c) encourage, assist or allow any third party to any of the foregoing.
+ 
+3. OWNERSHIP
+The Game is protected by copyright law and by national and international laws, treaties and conventions.
+As between you and us, we own all right, title and interest in the Game, including all computer code, titles, text, images, animations, artwork, audio, video, designs, sounds, themes, objects, characters, character names, stories, dialogue, concepts and trade-marks, the graphical design of the user interface, the “look-and-feel” of the user interface, all modifications, customizations and additions thereto, and all intellectual property rights therein.  Our names and logos are our trade-marks and you must not use any of them without our consent. Except as expressly set out in this Agreement, you acquire no license to, or other rights in, the Game.
+ 
+4. GAME ACCOUNT
+To access and use the game you must have a user account (“Account”).  You agree to provide accurate and complete information when establishing and updating your Account. You are solely responsible for keeping your Account password secure and confidential. We will never ask you for your password. You are solely responsible and liable for all activity conducted through your Account (whether authorized by you or not), and for maintaining your Account in good standing. You will immediately notify us of any unauthorized use of your Account, user name or password. You agree that you will never use another person’s Game account.
+We will not be liable for any loss or damage arising from the unauthorized use of your Account. However, you may be liable for our losses or the losses of others due to such unauthorized use.
+The Game is currently accessible only through Google Chrome, and you must have a Google account to access and play the Game. You acknowledge and agree that your Google account is provided and managed by Google, not by us, and that your creation and use of that Google account are subject to Google’s applicable terms and conditions and privacy policies.
+We reserve the right, in our sole discretion, to terminate or suspend your Account if we believe, or have been notified by a third party of its belief, that you may be infringing the rights of others, violating the copyrights of others, or engaging in any inappropriate behavior. We also reserve the right, in our sole discretion, to terminate your access to all or part of the Game or to any product or service available through the Game or any Klei website for any reason or no reason, with or without notice. In the event of termination, your Account will be disabled, and you will not have access to your Account. You should be aware that, if your Account is terminated, we may not be able to return your content to you and that you may not otherwise have access to your content, although residual copies of such information may remain in our system for back-up purposes and for compliance with legal reporting obligations.
+ 
+5. AGE
+The Game is available only to individuals who are of legal age to form a binding contract. The Game may be used by an individual older than 13 but younger than 19 only with express authorization from that individual’s parent or legal guardian. Subject to the laws of your jurisdiction of residence, individuals older than 13 but younger than 19 may only access and use the Game through an account established by, and with the approval of, their parents or legal guardians. If you permit your minor child or legal ward to use your Account to access and use the Game, you agree to this Agreement on your behalf and on behalf of your minor child or legal ward, and you understand and agree that you will be responsible for all use of your Account by your minor child or legal ward regardless of whether you authorized that use (including the purchase of items for which we charge a fee).
+You hereby confirm that you are at least 19 years of age, are of the age of majority in the jurisdiction from which you access the Game, and are an individual who can form a legally binding contract.
+ 
+6. INTERRUPTIONS, ERRORS AND DOWNTIME
+Your use of the Game might be interrupted and will not be free of errors.
+The Game may be unavailable from time to time due to routine maintenance, upgrades, hardware and software malfunctions, repairs, power outages, hackers, denial of service attacks and unforeseeably large service demands. Where reasonably possible we will give you prior notice of any scheduled service interruptions.
+ 
+7. PRIVACY
+We respect your privacy and only collect, use and disclose your personal information as described in our Privacy Policy and in this Agreement. You hereby consent to the collection, use and disclosure of your personal information as described in this Agreement and our Privacy Policy.
+You consent to our collection, use and disclosure of your name, contact information and other personal information to the extent necessary or desirable for us to communicate with you, monitor your compliance with this Agreement, and manage the Game.  We may use aggregate, non-identifiable information about Game players for promotional and advertising purposes.  We do not sell your personal information to third parties.  If we suspect you of fraudulent or other criminal activities, we may disclose your personal information to the police or other authorities.  We will not otherwise disclose your personal information except as permitted or required by law.
+ 
+8. PAYMENT
+You do not have to pay to play the Game, though we reserve the right to charge fees to play the Game in the future.
+If you wish to obtain a product or service through or in connection with the Game that requires you to pay a fee, you will pay all applicable fees by credit card or a third-party electronic payment processors and/or financial institutions (“EPPs”). You irrevocably authorize us, as necessary, to instruct EPPs to process your payments, and you irrevocably agree that we may give such instructions on your behalf in accordance with your requests as submitted using the relevant Game features.  You agree to be bound by the terms and conditions of use of each applicable EPP; if there is a conflict between this Agreement and the EPP’s terms and conditions, this Agreement will prevail.
+We will suspend your access to the product or service if you do not pay, or if your credit card expires or denies payment. In order to process your payments, you must provide us or the EPP with certain personal information, and you hereby consent to the collection, use and disclosure of your personal information necessary for those purposes.
+IF YOU DISPUTE ANY CHARGES RELATING TO THE GAME OR TO PRODUCTS OR SERVICES AVAILABLE THROUGH OR IN CONNECTION WITH THE GAME, YOU MUST NOTIFY US IN WRITING WITHIN 30 DAYS AFTER THE DATE OF THE CHARGE. Your failure to notify us within that period will constitute your waiver of any claim relating to the disputed charge.
+ 
+9. VIRTUAL PROPERTY
+You have no property interest in any virtual currency, items or other property (collectively “Virtual Property”) that you obtain or purchase through or in connection with the Game. Any purchase or acquisition of Virtual Property is the purchase of a limited, non-transferable, revocable licence to use that Virtual Property within the Game. You may not transfer or resell Virtual Property for commercial gain. Virtual Property has no monetary value, and cannot be refunded or exchanged for cash or any other tangible value. If your Account is terminated or suspended for any reason, or if we discontinue the Game, all Virtual Property is unconditionally forfeited.
+We have no liability for hacking or loss of your Virtual Property, and we have no obligation to (and will not) reimburse you for any Virtual Property lost due to your breach of this Agreement.
+ 
+10. YOUR RESPONSIBILITIES
+You are solely responsible for obtaining and maintaining all computer equipment and Internet connections required to access and use the Game, at your sole expense.  We do not guarantee that the Game will not conflict with other programs on your computer, and we will not be responsible for the workings or failures of your computer equipment, network, software or Internet access.  The performance and proper functioning of the Game may be reduced or prevented if you are simultaneously using other software, and we recommend that you turn off any such programs when using the Game.
+ 
+11. RESTRICTIONS ON YOUR CONDUCT
+When using the Game or any product or service available through the Game you must comply with all applicable laws and with all of our policies and rules, as updated from time-to-time.  In particular, but without limiting the foregoing, you must not:
+hack, reverse engineer, disable, disrupt or interfere with the functioning of the Game, or modify the Game in any way;
+use the Game in any manner that could damage or impair the Game or interfere with any other party's use and enjoyment of the Game;
+harass or threaten any other user of the Game or any Klei employee or representative;
+impersonate another person, indicate that you are a Klei employee or representative (if you are not) or attempt to mislead other players by indicating that you represent Klei in any way;
+attempt to gain unauthorized access to the Game, other accounts, computer systems or networks connected to the Game, through hacking, password mining or any other means;
+upload to or transmit to us or any other player anything that may be defamatory, threatening, abusive, obscene, pornographic, harmful or invasive of anyone’s privacy, may violate any law including intellectual property, privacy or other laws, or may give rise to civil or other liability;
+upload to or transmit to us or any other player any data, file or software that contains a virus, Trojan horse, worm, bot keystroke logger, time bomb, cancelbot or other computer programming routines that are intended to damage, interfere with intercept, mine, scrape or expropriate any system, data or personal information relating to the Game;
+attempt to disable or circumvent any Game features that are designed to limit your access to certain information about Game users, and you otherwise will not access or attempt to access areas of the Game or its servers that have not been made available to the public;
+use the Game for spamming, other advertising, or other bulk message transmission, or use the Game to promote or operate any service or commercial enterprise;
+post or communicate any personally identifiable information about any other person, or use the Game to collect or harvest any information about any other person;
+use abusive or offensive language during your use of the Game, including on any forums, chat rooms, or web sites; or
+encourage, assist or attempt to trick other players into breaking this Agreement.
+In addition to any other available remedies, we may suspend or terminate your access to the Game if you breach of any of these obligations.
+ 
+12. CHEATING AND FRAUD
+We have zero tolerance for cheating and illegal behaviour.  You will obey applicable laws.  If we find, in our sole discretion, that you have cheated or attempted to defraud us or any other Game player in any way, or if we suspect you of fraudulent payment or any other fraudulent or illegal activity, we reserve the right to suspend or terminate your access to the Game and to share this information with other on-line gaming providers, banks, credit card companies, and appropriate agencies and authorities.
+ 
+13. SECURITY REVIEW
+We reserve the right to conduct a security review at any time to validate your identity, age, and your financial transactions, for potential breach of this Agreement and of applicable law.  You hereby authorize us and our agents to make any inquiries of you, and to use and disclose to any third party any information, we consider necessary to validate the information you have provided or are required to provide to us under this Agreement.  To assist in these security reviews, you agree to provide such information or documentation as we may request from time to time in our sole discretion.  If, after conducting a security review, we determine in our sole discretion that you have not complied with this Agreement, or that you have not provided timely satisfactory responses to inquiries made in the security review, we may terminate or suspend your access to the Game.
+ 
+14. CONSENT TO MONITORING
+When you are using the Game, the Game may monitor your computer’s random access memory (RAM) for unauthorized third-party programs that interact with the Game and are prohibited by this Agreement. If the Game detects an unauthorized third-party program, the Game may, without notice to you, communicate that information to us, including your Account information, your internet protocol (IP) address, details about the unauthorized third-party program, and the time and date that the unauthorized third-party program was detected. If the Game detects the use of an unauthorized third-party program, your access to the Game may be terminated. You hereby consent to this monitoring.
+ 
+15. DISCLAIMERS
+THE GAME IS PROVIDED “AS IS” AND “AS AVAILABLE”.  TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL TERMS, CONDITIONS, GUARANTEES, REPRESENTATIONS AND WARRANTIES (EXPRESS, IMPLIED, STATUTORY AND OTHERWISE), IN RESPECT OF THE GAME, INCLUDING THOSE OF MERCHANTABILITY, NON-INFRINGEMENT, TITLE, QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.  WE DO NOT WARRANT THAT THE GAME WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE GAME WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR CONTENT.
+IF YOU DOWNLOAD OR OBTAIN ANY product or service through or in connection with the Game, YOU DO SO AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE OR LOSS, INCLUDING ANY DAMAGE TO YOUR COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA, THAT ARISES FROM OR RELATES TO ANY SUCH PRODUCT OR SERVICE.
+ 
+16. LIMITATION OF LIABILITY
+YOU USE THE GAME AT YOUR OWN RISK.  WE WILL NOT BE LIABLE TO YOU FOR ANY LOSS OR DAMAGE SUFFERED IN CONNECTION TO THE ACCESS TO OR USE OF, OR INABILITY TO ACCESS OR USE, THE GAME.
+WITHOUT LIMITING THE PREVIOUS SENTENCE, WE WILL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES, WHETHER ARISING IN TORT (INCLUDING NEGLIGENCE), CONTRACT OR OTHERWISE, EVEN IF WE ARE EXPRESSLY ADVISED OF THE POSSIBILITY OF SUCH LOSS, INJURY OR DAMAGE AND EVEN IF THAT LOSS, INJURY OR DAMAGE IS FORESEEABLE, RESULTING FROM: (a) THE USE OR INABILITY TO USE THE GAME OR ANY PRODUCT OR SERVICE AVAILABLE THROUGH THE GAME OR ANY KLEI WEBSITE; (b) THE COST OF OBTAINING SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY DATA, INFORMATION, PRODUCT, OR SERVICE PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE GAME OR ANY KLEI WEBSITE; (c) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR CONTENT, DATA, OR TRANSMISSIONS; (d) STATEMENTS OR CONDUCT OF ANY THIRD PARTY THROUGH THE GAME OR ANY KLEI WEBSITE OR USING ANY PRODUCT OR SERVICE AVAILABLE THROUGH THE GAME OR ANY KLEI WEBSITE; OR (e) ANY OTHER MATTER RELATING TO THE GAME OR ANY PRODUCT OR SERVICE AVAILABLE THROUGH THE GAME OR ANY KLEI WEBSITE.  FURTHER, WE WILL NOT BE LIABLE IN ANY WAY FOR ANY LOSS OR DAMAGE TO YOUR ACCOUNT.
+ 
+17. MAXIMUM LIABILITY
+IF, DESPITE THE LIMITATIONS SET OUT ABOVE, WE BECOME LIABLE TO YOU IN RESPECT OF THE GAME OR OTHERWISE UNDER THIS AGREEMENT, THAT LIABILITY WILL BE LIMITED TO THE SMALLER OF THE FEES YOU PAID TO US IN RELATION TO THE GAME IN THE 3 MONTHS PRIOR TO THE EVENT GIVING RISE TO THE LIABILITY OR $100.
+ 
+18. INDEMNITY
+YOU WILL INDEMNIFY AND HOLD HARMLESS KLEI ENTERTAINMENT INC. AND ITS DIRECTORS, OFFICERS, EMPLOYEES, CONTRACTORS AND REPRESENTATIVES FROM AND AGAINST ALL DAMAGES, INJURIES, LIABILITIES, COSTS, EXPENSES AND LEGAL FEES THAT THEY MAY INCUR IN CONNECTION WITH YOUR USE OF THE GAME OR YOUR BREACH OF ANY OBLIGATION IN THIS AGREEMENT.
+ 
+19. JURISDICTION AND REMEDY
+Because some jurisdictions do not allow certain exclusions or limitations of liability, the disclaimers, exclusions and limitations in this Agreement will apply to the fullest extent permitted by law in the applicable jurisdiction.
+We operate and maintain the Game from Canada, and we do not represent or warrant that the Game is appropriate or available for use in any particular jurisdiction. You choose to access and use the Game on your own initiative and at your own risk, and you are responsible for complying with all local laws, rules and regulations.
+ 
+20. TERMINATION OF AGREEMENT
+Without prejudice to any of our rights under this Agreement or at law or equity, we may terminate this Agreement and your access to the Game immediately if you breach this Agreement.
+ 
+21. TERMINATION OF GAME
+You acknowledge and agree that the Game is an online computer game that must be played over the internet, and that we may, at any time and in our sole discretion, stop providing access to or support for the Game without notice or liability to you. You further acknowledge and agree that we may change, suspend, discontinue or restrict your access to any feature of the Game at any time without notice or liability to you.
+ 
+22. GOVERNING LAW AND DISPUTES
+This Agreement will be governed by and construed in accordance with the laws in effect in British Columbia, Canada, without reference to its choice of laws rules.  You hereby attorn irrevocably to the exclusive jurisdiction of the British Columbia courts sitting in Vancouver, British Columbia; however, we may apply to a court of competent jurisdiction for interim protection or equitable relief such as an interlocutory or interim injunction.
+ 
+23. CHANGES TO AGREEMENT
+We may revise this Agreement (including any applicable fees and service charges) at any time and from time to time. We will provide notice of any changes by presenting a revised Agreement for your review when you first access the Game after the Agreement changes.  We may provide such other notice as we may choose in our sole discretion.  Your continued use of the Game following notice of changes to this Agreement will mean that you accept all such changes.  If any change is not acceptable to you, your only recourse is to stop using the Game.
+ 
+24. CHANGES TO GAME
+From time to time, without prior notice, we may in our sole discretion add new features to the Game, remove existing features from the Game, or otherwise modify or update the Game. We may provide updates that must be installed on your computer for you to access and use the Game. You hereby consent to us remotely installing updates to the Game software that resides on your computer, without further notice.
+The media on which the Game software is distributed may contain additional software and content for which you do not have a licence (“Unsubscribed Software”).  You understand and agree that we may install the Unsubscribed Software onto your computer during the Game software installation process. You will not access, use, distribute, copy, display, reverse engineer, derive source code from, modify, disassemble or decompile any Unsubscribed Software, until you receive from us a licence to use the Unsubscribed Software.
+ 
+25. EXPORT CONTROLS
+The Game is subject to all applicable export laws and restrictions. The Game may not be re-exported, downloaded or otherwise exported to (or downloaded or installed by a national or resident of) any country to which Canada or the United States maintains an embargo, or any person or entity specifically designated on a control list maintained by Canada or the United States. You represent and warrant that you are not located in, under the control of, or a national or resident of any such country or on any such list.
+ 
+26. GENERAL
+Waiver: No waiver, delay, or failure to act by us regarding any particular default or omission will prejudice or impair any of our rights or remedies regarding that or any subsequent default or omission that are not expressly waived in writing.  Entire Agreement:  This Agreement supersedes all prior agreements of the parties regarding the subject matter of this Agreement, and (together with our Privacy Policy) constitutes the whole agreement with respect to that subject matter.  Assignment and Sublicensing: You may not assign or sublicense this Agreement or any of your rights under this Agreement without our prior written consent, which may be withheld without cause.  Enurement: This Agreement will enure to the benefit of and be binding upon the parties and their heirs, legal representatives, lawful successors and permitted assigns.  Force Majeure:  No party will be liable for any non-performance or delay in performance (except its payment obligations) by that party that is due wholly or in part to any cause beyond that party’s reasonable control.  Interpretation:  In this agreement, "we", "us", and "our" refer to Klei Entertainment Inc. alone and never refer to the combination of you and Klei Entertainment Inc.; that combination is referred to as "the parties".
